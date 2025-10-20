@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fundo{
+    background-color: #f8f1f6;
+}
+
+nav{
+    display: flex;
+    border: 10px solid rgb(10, 203, 0);
+    justify-content: space-between;
+    background-color: #f0eec0;
+    border-radius: 20px;
+    padding: 1%;
+    
+}
+
+.gear1{
+
+    height: 300px;
+    background-color: #efece4;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    display: flex;
+    align-items: stretch;
+}
+
+.hero-descricao{
+border: 7px solid rgb(18, 7, 120);
+width: 37%;
+}
+
+.hero-imagem{
+
+    border: 6px solid #975151;
+    width: 63%;
+}
+.gear2{
+
+    display: flex;
+    border: 8px solid #000000;
+    background-color: #00eeff;
+    border-radius: 4px;
+    
+    
+}
+.card{
+
+    border: 3px solid #ea02cb;
+    border-radius: 10px;
+    background-color: white;
+    padding: 4px;
+}
+
+footer{
+
+    text-align: center;
+    padding: 50px;
+    font-size: x-large;
+}
